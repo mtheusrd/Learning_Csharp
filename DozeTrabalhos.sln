@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verifica_Caracteres", "Veri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaçoConsole", "LaçoConsole\LaçoConsole.csproj", "{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "While\While.csproj", "{E99F59D1-26F2-4230-B0BA-F98B85FE3D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz_ID", "Matriz_ID\Matriz_ID.csproj", "{2CD039EC-6C13-47F6-8933-6EB122C01C72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99F59D1-26F2-4230-B0BA-F98B85FE3D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99F59D1-26F2-4230-B0BA-F98B85FE3D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99F59D1-26F2-4230-B0BA-F98B85FE3D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99F59D1-26F2-4230-B0BA-F98B85FE3D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD039EC-6C13-47F6-8933-6EB122C01C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD039EC-6C13-47F6-8933-6EB122C01C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD039EC-6C13-47F6-8933-6EB122C01C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD039EC-6C13-47F6-8933-6EB122C01C72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
