@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verifica_Caracteres", "Verifica_Caracteres\Verifica_Caracteres.csproj", "{98CA2500-4C0D-4D1B-B85F-A61F26C0C8FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaçoConsole", "LaçoConsole\LaçoConsole.csproj", "{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{98CA2500-4C0D-4D1B-B85F-A61F26C0C8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98CA2500-4C0D-4D1B-B85F-A61F26C0C8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98CA2500-4C0D-4D1B-B85F-A61F26C0C8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8452BCE3-BDB5-4886-9820-1E6CFCAE81F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
