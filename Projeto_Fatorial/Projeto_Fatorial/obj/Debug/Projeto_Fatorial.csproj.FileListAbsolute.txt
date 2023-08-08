@@ -1,0 +1,8 @@
+C:\Users\matheus.goncalves\source\repos\Projeto_Fatorial\Projeto_Fatorial\bin\Debug\Projeto_Fatorial.exe.config
+C:\Users\matheus.goncalves\source\repos\Projeto_Fatorial\Projeto_Fatorial\bin\Debug\Projeto_Fatorial.exe
+C:\Users\matheus.goncalves\source\repos\Projeto_Fatorial\Projeto_Fatorial\bin\Debug\Projeto_Fatorial.pdb
+C:\Users\matheus.goncalves\source\repos\Projeto_Fatorial\Projeto_Fatorial\obj\Debug\Projeto_Fatorial.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Projeto_Fatorial\Projeto_Fatorial\obj\Debug\Projeto_Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.goncalves\source\repos\Projeto_Fatorial\Projeto_Fatorial\obj\Debug\Projeto_Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Projeto_Fatorial\Projeto_Fatorial\obj\Debug\Projeto_Fatorial.exe
+C:\Users\matheus.goncalves\source\repos\Projeto_Fatorial\Projeto_Fatorial\obj\Debug\Projeto_Fatorial.pdb

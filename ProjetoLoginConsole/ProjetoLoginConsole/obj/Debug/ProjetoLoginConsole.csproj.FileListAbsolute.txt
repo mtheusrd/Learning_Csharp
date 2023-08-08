@@ -1,0 +1,8 @@
+C:\Users\matheus.goncalves\source\repos\ProjetoLoginConsole\ProjetoLoginConsole\bin\Debug\ProjetoLoginConsole.exe.config
+C:\Users\matheus.goncalves\source\repos\ProjetoLoginConsole\ProjetoLoginConsole\bin\Debug\ProjetoLoginConsole.exe
+C:\Users\matheus.goncalves\source\repos\ProjetoLoginConsole\ProjetoLoginConsole\bin\Debug\ProjetoLoginConsole.pdb
+C:\Users\matheus.goncalves\source\repos\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\ProjetoLoginConsole.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\ProjetoLoginConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.goncalves\source\repos\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\ProjetoLoginConsole.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\ProjetoLoginConsole.exe
+C:\Users\matheus.goncalves\source\repos\ProjetoLoginConsole\ProjetoLoginConsole\obj\Debug\ProjetoLoginConsole.pdb
