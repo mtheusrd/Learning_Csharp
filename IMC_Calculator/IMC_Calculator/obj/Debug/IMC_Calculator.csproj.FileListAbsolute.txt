@@ -1,0 +1,8 @@
+C:\Users\matheus.goncalves\source\repos\IMC_Calculator\IMC_Calculator\bin\Debug\IMC_Calculator.exe.config
+C:\Users\matheus.goncalves\source\repos\IMC_Calculator\IMC_Calculator\bin\Debug\IMC_Calculator.exe
+C:\Users\matheus.goncalves\source\repos\IMC_Calculator\IMC_Calculator\bin\Debug\IMC_Calculator.pdb
+C:\Users\matheus.goncalves\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\IMC_Calculator.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\IMC_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.goncalves\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\IMC_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\IMC_Calculator.exe
+C:\Users\matheus.goncalves\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\IMC_Calculator.pdb
