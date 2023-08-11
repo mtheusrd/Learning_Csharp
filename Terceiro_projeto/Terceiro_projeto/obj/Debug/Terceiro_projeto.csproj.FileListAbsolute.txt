@@ -1,0 +1,8 @@
+C:\Users\matheus.goncalves\source\repos\Terceiro_projeto\Terceiro_projeto\obj\Debug\Terceiro_projeto.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Terceiro_projeto\Terceiro_projeto\obj\Debug\Terceiro_projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.goncalves\source\repos\Terceiro_projeto\Terceiro_projeto\obj\Debug\Terceiro_projeto.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Terceiro_projeto\Terceiro_projeto\bin\Debug\Terceiro_projeto.exe.config
+C:\Users\matheus.goncalves\source\repos\Terceiro_projeto\Terceiro_projeto\bin\Debug\Terceiro_projeto.exe
+C:\Users\matheus.goncalves\source\repos\Terceiro_projeto\Terceiro_projeto\bin\Debug\Terceiro_projeto.pdb
+C:\Users\matheus.goncalves\source\repos\Terceiro_projeto\Terceiro_projeto\obj\Debug\Terceiro_projeto.exe
+C:\Users\matheus.goncalves\source\repos\Terceiro_projeto\Terceiro_projeto\obj\Debug\Terceiro_projeto.pdb
