@@ -52,7 +52,7 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
 
-// Software Name: MSS 5.1.3( All Modules )
+// Software Name: Mobile Sales Syestem 5.1.3( All Modules )
 // Author: Matheus Luiz Rodrigues Gonçalves - #2487587494
 // Developer: Sysdev Mobile Computing.
 // Date: August 23, 2023
