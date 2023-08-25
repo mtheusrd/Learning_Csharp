@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\Queues_Stacks\Queues_Stacks\bin\Debug\Queues_Stacks.exe.config
+C:\Users\matheus.goncalves\source\repos\Queues_Stacks\Queues_Stacks\bin\Debug\Queues_Stacks.exe
+C:\Users\matheus.goncalves\source\repos\Queues_Stacks\Queues_Stacks\bin\Debug\Queues_Stacks.pdb
+C:\Users\matheus.goncalves\source\repos\Queues_Stacks\Queues_Stacks\obj\Debug\Queues_Stacks.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Queues_Stacks\Queues_Stacks\obj\Debug\Queues_Stacks.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Queues_Stacks\Queues_Stacks\obj\Debug\Queues_Stacks.exe
+C:\Users\matheus.goncalves\source\repos\Queues_Stacks\Queues_Stacks\obj\Debug\Queues_Stacks.pdb

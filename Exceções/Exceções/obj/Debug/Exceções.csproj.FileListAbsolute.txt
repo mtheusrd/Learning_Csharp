@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\Exceções\Exceções\bin\Debug\Exceções.exe.config
+C:\Users\matheus.goncalves\source\repos\Exceções\Exceções\bin\Debug\Exceções.exe
+C:\Users\matheus.goncalves\source\repos\Exceções\Exceções\bin\Debug\Exceções.pdb
+C:\Users\matheus.goncalves\source\repos\Exceções\Exceções\obj\Debug\Exceções.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Exceções\Exceções\obj\Debug\Exceções.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Exceções\Exceções\obj\Debug\Exceções.exe
+C:\Users\matheus.goncalves\source\repos\Exceções\Exceções\obj\Debug\Exceções.pdb

@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\Metodos\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\matheus.goncalves\source\repos\Metodos\Metodos\bin\Debug\Metodos.exe
+C:\Users\matheus.goncalves\source\repos\Metodos\Metodos\bin\Debug\Metodos.pdb
+C:\Users\matheus.goncalves\source\repos\Metodos\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Metodos\Metodos\obj\Debug\Metodos.exe
+C:\Users\matheus.goncalves\source\repos\Metodos\Metodos\obj\Debug\Metodos.pdb

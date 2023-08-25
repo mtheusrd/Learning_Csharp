@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\Forçar_execao\Forçar_execao\bin\Debug\Forçar_execao.exe.config
+C:\Users\matheus.goncalves\source\repos\Forçar_execao\Forçar_execao\bin\Debug\Forçar_execao.exe
+C:\Users\matheus.goncalves\source\repos\Forçar_execao\Forçar_execao\bin\Debug\Forçar_execao.pdb
+C:\Users\matheus.goncalves\source\repos\Forçar_execao\Forçar_execao\obj\Debug\Forçar_execao.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Forçar_execao\Forçar_execao\obj\Debug\Forçar_execao.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Forçar_execao\Forçar_execao\obj\Debug\Forçar_execao.exe
+C:\Users\matheus.goncalves\source\repos\Forçar_execao\Forçar_execao\obj\Debug\Forçar_execao.pdb
