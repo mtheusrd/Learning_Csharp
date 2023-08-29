@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\Sexto_Projeto\bin\Debug\Sexto_Projeto.exe.config
+C:\Users\matheus.goncalves\source\repos\Sexto_Projeto\bin\Debug\Sexto_Projeto.exe
+C:\Users\matheus.goncalves\source\repos\Sexto_Projeto\bin\Debug\Sexto_Projeto.pdb
+C:\Users\matheus.goncalves\source\repos\Sexto_Projeto\obj\Debug\Sexto_Projeto.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Sexto_Projeto\obj\Debug\Sexto_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Sexto_Projeto\obj\Debug\Sexto_Projeto.exe
+C:\Users\matheus.goncalves\source\repos\Sexto_Projeto\obj\Debug\Sexto_Projeto.pdb
