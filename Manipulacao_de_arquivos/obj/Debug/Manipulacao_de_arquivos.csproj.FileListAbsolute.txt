@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\Manipulacao_de_arquivos\bin\Debug\Manipulacao_de_arquivos.exe.config
+C:\Users\matheus.goncalves\source\repos\Manipulacao_de_arquivos\bin\Debug\Manipulacao_de_arquivos.exe
+C:\Users\matheus.goncalves\source\repos\Manipulacao_de_arquivos\bin\Debug\Manipulacao_de_arquivos.pdb
+C:\Users\matheus.goncalves\source\repos\Manipulacao_de_arquivos\obj\Debug\Manipulacao_de_arquivos.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Manipulacao_de_arquivos\obj\Debug\Manipulacao_de_arquivos.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Manipulacao_de_arquivos\obj\Debug\Manipulacao_de_arquivos.exe
+C:\Users\matheus.goncalves\source\repos\Manipulacao_de_arquivos\obj\Debug\Manipulacao_de_arquivos.pdb
