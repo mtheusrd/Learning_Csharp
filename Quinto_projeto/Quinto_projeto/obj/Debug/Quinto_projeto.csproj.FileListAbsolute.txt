@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\Quinto_projeto\Quinto_projeto\bin\Debug\Quinto_projeto.exe.config
+C:\Users\matheus.goncalves\source\repos\Quinto_projeto\Quinto_projeto\bin\Debug\Quinto_projeto.exe
+C:\Users\matheus.goncalves\source\repos\Quinto_projeto\Quinto_projeto\bin\Debug\Quinto_projeto.pdb
+C:\Users\matheus.goncalves\source\repos\Quinto_projeto\Quinto_projeto\obj\Debug\Quinto_projeto.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\Quinto_projeto\Quinto_projeto\obj\Debug\Quinto_projeto.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\Quinto_projeto\Quinto_projeto\obj\Debug\Quinto_projeto.exe
+C:\Users\matheus.goncalves\source\repos\Quinto_projeto\Quinto_projeto\obj\Debug\Quinto_projeto.pdb
