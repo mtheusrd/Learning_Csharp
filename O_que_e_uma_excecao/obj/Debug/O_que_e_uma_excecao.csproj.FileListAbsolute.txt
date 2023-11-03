@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\O_que_e_uma_excecao\bin\Debug\O_que_e_uma_excecao.exe.config
+C:\Users\matheus.goncalves\source\repos\O_que_e_uma_excecao\bin\Debug\O_que_e_uma_excecao.exe
+C:\Users\matheus.goncalves\source\repos\O_que_e_uma_excecao\bin\Debug\O_que_e_uma_excecao.pdb
+C:\Users\matheus.goncalves\source\repos\O_que_e_uma_excecao\obj\Debug\O_que_e_uma_excecao.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\O_que_e_uma_excecao\obj\Debug\O_que_e_uma_excecao.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\O_que_e_uma_excecao\obj\Debug\O_que_e_uma_excecao.exe
+C:\Users\matheus.goncalves\source\repos\O_que_e_uma_excecao\obj\Debug\O_que_e_uma_excecao.pdb

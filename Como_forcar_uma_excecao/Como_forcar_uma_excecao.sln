@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Como_forcar_uma_excecao", "Como_forcar_uma_excecao.csproj", "{AC24FF1F-D9AE-47CE-8881-773F459AA118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC24FF1F-D9AE-47CE-8881-773F459AA118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC24FF1F-D9AE-47CE-8881-773F459AA118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC24FF1F-D9AE-47CE-8881-773F459AA118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC24FF1F-D9AE-47CE-8881-773F459AA118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2BF31D-3E18-42A2-B30A-612871698F4A}
+	EndGlobalSection
+EndGlobal
